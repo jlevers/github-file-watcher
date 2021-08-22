@@ -1,0 +1,3 @@
+foo.py
+bar/**/*.csv
+baz/abc/xyz.txt
